@@ -2,9 +2,11 @@ Euclidean_algorithm
 ---------------------
 Praticing coding
 
-Environment
+Java Environment
 ---------------------
-JavaSE 1.8   JRE 1.8.0_171
+JavaSE 1.8   
+JRE 1.8.0_171
+
 Development Environment
 -----------------------
 Win 10
