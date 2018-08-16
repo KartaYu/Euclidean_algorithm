@@ -4,9 +4,9 @@ Praticing coding
 
 Environment
 ---------------------
-JavaSE 1.8
-JRE 1.8.0_171
-Win 10
+#JavaSE 1.8
+#JRE 1.8.0_171
+#Win 10
 
 IDE
 ---------------------
