@@ -1,8 +1,9 @@
-Euclidean_algorithm
+Purpose
 ---------------------
-Exchange two char for example  
-![alt-tag](https://i.imgur.com/QhDIjv3.png)
-
+Exchange two char for example.  
+![alt-tag](https://i.imgur.com/QhDIjv3.png)  
+  
+ and pratice coding
 Java Environment
 ---------------------
 JavaSE 1.8   
