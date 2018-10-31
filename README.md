@@ -1,7 +1,7 @@
 Purpose
 ---------------------
-Exchange two char for example.  
-![alt-tag]()  
+Caculating GCD by Euclidean_algorithm  
+![alt-tag](https://i.imgur.com/GlJBg4L.png)  
   
  and pratice coding
 Java Environment
