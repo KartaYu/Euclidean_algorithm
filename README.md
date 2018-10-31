@@ -1,7 +1,7 @@
 Purpose
 ---------------------
 Exchange two char for example.  
-![alt-tag](https://i.imgur.com/QhDIjv3.png)  
+![alt-tag]()  
   
  and pratice coding
 Java Environment
