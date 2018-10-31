@@ -1,20 +1,22 @@
+import java.util.Scanner;
+
 public class Euclidean_algorithm {
 
 	public static void main(String[] args) {
-		char x ='a', y ='b';
-		System.out.printf("Before exchang: %c, %c\n",x ,y );
-		System.out.printf("After exchang: %c, %c",swap(x, y) ,swap(y, x) );
+		Scanner scan = new Scanner(System.in);
+		int number1, number2;
+		System.out.printf("Please enter two integer :");
+		number1 = scan.nextInt();number2 = scan.nextInt();
+		System.out.printf("GCD = ");
+	    GCD(number1, number2);
 		
-
 	}
 	
-	public static char swap(char x, char y) {
-		char temp;
-		temp = x;
-		x = y;
-		y = temp;
-		
-		return x;
+	public static void GCD(int x, int y) {
+		if((x % y) == 0)
+			System.out.print(y);
+		else
+			GCD (y, (x % y));
 	}
 
 }
